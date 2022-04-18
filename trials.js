@@ -102,7 +102,7 @@ function censorVowels(word) {
 //
 // Ex.:
 //   > snakeToCamel('hello_world');
-//   'HelloWorld'
+//   'HelloWorld' 
 function snakeToCamel(string) {
   const camelCase = [];
 
